@@ -31,6 +31,6 @@ Mail.deliver do
         subject 'Automation Regression Complete for Omniture tracking. Scriptname : run-omniture.rb '
          body 'Omniture tracking scripts.
 	 Please check the output file which has extracted all the Omniture variables and the pages clicked abd total clicks'
-        add_file '/Users/nkrishna/qa/FireFox/Regression/Omniture/output1.txt'
+        add_file './output1.txt'
 end
 
