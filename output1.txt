@@ -1,0 +1,398 @@
+** THIS REGRESSION IS DONE USING FireFox BROWSER and PRODUCTION Environment **
+ 
+Starting Time now 2013-11-05 14:13:52 -0800
+The http://www.oprah.com/omagazine.html was clicked
+The http://www.oprah.com/register.html was clicked
+Join now button clicked on the Ocom Registration page which navigates to News letter page
+**** This is the variables that was tracked for Omagazine Newsletter page after logging in -prod environment ******
+****************************************
+evar10 :211052645  (Entity_id)
+evar5  :create/newsletter.html
+prop1  :Oprah.com - Live Your Best Life - Oprah.com
+prop2  :newsletters
+prop40 :New
+prop41 :1
+The total number of urls clicked  for this test is 2
+****************************************
+Test now complete for Omniture tracking for Omag Newsletter page
+End Time now 2013-11-05 14:14:23 -0800
+ 
+Starting Time now 2013-11-05 14:14:24 -0800
+The http://www.oprah.com/own-brene-brown-course/lifeclass-presents-brene-brown-landing.html was clicked
+The https://www.oprah.com/own-brene-brown-course/lifeclass-presents-brene-brown-online-course.html?LoginRegister_action=1&visited_market_landing=1 was clicked
+Sign_in and continue  button clicked by paid member for Brene Brown page
+http://www.oprah.com/package.html?category=brene-brown-course&page_link_url=lifeclass-presents-brene-brown-online-course.html&LoginRegister_action=1&visited_market_landing=1 is where the page is currently located
+**** This is the variables that was tracked for Brene Brown Course page for paid member -prod environment ******
+****************************************
+evar20 :brenebrowncourse
+evar14 :210950900  (Entity_Id)
+evar5  :package.html
+prop1  :Oprah’s Lifeclass Presents Brené Brown The Gifts of Imperfection -- A six-week eCourse - @OWNTV
+prop2  :brenebrowncourse
+prop4  :landing
+prop5  :brenebrowncourse/lifeclass-presents-brene-brown-online-course.html
+prop6  :own
+prop40 :New
+prop41 :1
+The total number of urls clicked  for this test is 3
+****************************************
+Test now complete for Omniture tracking for Brene Brown Course page for paid member
+End Time now 2013-11-05 14:14:46 -0800
+ 
+Starting Time now 2013-11-05 14:14:47 -0800
+The http://www.oprah.com/own-brene-brown-course/lifeclass-presents-brene-brown-landing.html was clicked
+The https://www.oprah.com/own-brene-brown-course/lifeclass-presents-brene-brown-online-course.html?LoginRegister_action=1&visited_market_landing=1 was clicked
+Issue with the Sign-in button  registration for Brene Brown  page 
+The https://www.oprah.com/own-brene-brown-course/brene-course-faq.html
+**** This is the variables that was tracked for Brene Brown  page after logging in as new member -prod environment ******
+************************************
+evar14 :210950900  (Entity_Id)
+evar5  :own-brene-brown-course/brene-course-faq.html
+prop1  :Oprah.com - Live Your Best Life - @OWNTV
+prop2  :brenebrowncourse
+prop40 :New
+prop41 :1
+The total number of urls clicked  for this test is 3
+************************************
+Test now complete for Omniture tracking for Brene Brown registration page for new members
+End Time now 2013-11-05 14:15:11 -0800
+ 
+Starting Time now 2013-11-05 14:19:27 -0800
+The http://betastg.oprah.com/omagazine.html was clicked
+The http://betamyown.oprah.com/omagazine.html was clicked
+Join now button clicked on the Ocom Registration page which navigates to News letter page
+**** This is the variables that was tracked for Omagazine Newsletter page after logging in -betastg environment ******
+****************************************
+evar10 :210356176  (Entity_id)
+evar5  :create/newsletter.html
+prop1  :Oprah.com - Live Your Best Life - Oprah.com
+prop2  :newsletters
+prop40 :New
+prop41 :1
+The total number of urls clicked  for this test is 2
+****************************************
+Test now complete for Omniture tracking for Omag Newsletter page
+End Time now 2013-11-05 14:20:13 -0800
+ 
+Starting Time now 2013-11-05 14:28:50 -0800
+The http://betastg.oprah.com/own-brene-brown-course/lifeclass-presents-brene-brown-landing.html was clicked
+The https://betastg.oprah.com/own-brene-brown-course/lifeclass-presents-brene-brown-online-course.html?LoginRegister_action=1&visited_market_landing=1 was clicked
+Error nessage :
+problem with form submission for Omniture tracking for Brene Brown Course page for paid memeber
+ 
+Starting Time now 2013-11-05 14:36:48 -0800
+The http://betastg.oprah.com/own-brene-brown-course/lifeclass-presents-brene-brown-landing.html was clicked
+The https://betastg.oprah.com/own-brene-brown-course/lifeclass-presents-brene-brown-online-course.html?LoginRegister_action=1&visited_market_landing=1 was clicked
+Error nessage :
+problem with form submission for Omniture tracking for Brene Brown Course page for paid memeber
+ 
+Starting Time now 2013-11-05 14:38:40 -0800
+The http://betastg.oprah.com/own-brene-brown-course/lifeclass-presents-brene-brown-landing.html was clicked
+The https://betastg.oprah.com/own-brene-brown-course/lifeclass-presents-brene-brown-online-course.html?LoginRegister_action=1&visited_market_landing=1 was clicked
+Error nessage :
+problem with form submission for Omniture tracking for Brene Brown Course page for paid memeber
+ 
+Starting Time now 2013-11-05 14:39:16 -0800
+Starting Time now 2013-11-05 14:40:17 -0800
+The http://betastg.oprah.com/own-brene-brown-course/lifeclass-presents-brene-brown-landing.html was clicked
+The https://betastg.oprah.com/own-brene-brown-course/lifeclass-presents-brene-brown-online-course.html?LoginRegister_action=1&visited_market_landing=1 was clicked
+Error nessage :
+problem with form submission for Omniture tracking for Brene Brown Course page for paid memeber
+ 
+Starting Time now 2013-11-05 14:43:29 -0800
+The http://betastg.oprah.com/own-brene-brown-course/lifeclass-presents-brene-brown-landing.html was clicked
+The https://betastg.oprah.com/own-brene-brown-course/lifeclass-presents-brene-brown-online-course.html?LoginRegister_action=1&visited_market_landing=1 was clicked
+Error nessage :
+problem with form submission for Omniture tracking for Brene Brown Course page for paid memeber
+ 
+Starting Time now 2013-11-05 14:45:09 -0800
+The http://www.oprah.com/own-brene-brown-course/lifeclass-presents-brene-brown-landing.html was clicked
+The https://www.oprah.com/own-brene-brown-course/lifeclass-presents-brene-brown-online-course.html?LoginRegister_action=1&visited_market_landing=1 was clicked
+Sign_in and continue  button clicked by paid member for Brene Brown page
+http://www.oprah.com/package.html?category=brene-brown-course&page_link_url=lifeclass-presents-brene-brown-online-course.html&LoginRegister_action=1&visited_market_landing=1 is where the page is currently located
+**** This is the variables that was tracked for Brene Brown Course page for paid member -prod environment ******
+****************************************
+evar20 :brenebrowncourse
+evar14 :210950900  (Entity_Id)
+evar5  :package.html
+prop1  :Oprah’s Lifeclass Presents Brené Brown The Gifts of Imperfection -- A six-week eCourse - @OWNTV
+prop2  :brenebrowncourse
+prop4  :landing
+prop5  :brenebrowncourse/lifeclass-presents-brene-brown-online-course.html
+prop6  :own
+prop40 :New
+prop41 :1
+The total number of urls clicked  for this test is 3
+****************************************
+Test now complete for Omniture tracking for Brene Brown Course page for paid member
+End Time now 2013-11-05 14:45:36 -0800
+ 
+Starting Time now 2013-11-05 14:50:35 -0800
+The http://betastg.oprah.com/own-brene-brown-course/lifeclass-presents-brene-brown-landing.html was clicked
+The https://betastg.oprah.com/own-brene-brown-course/lifeclass-presents-brene-brown-online-course.html?LoginRegister_action=1&visited_market_landing=1 was clicked
+Sign_in and continue  button clicked by paid member for Brene Brown page
+http://www.oprah.com/package.html?category=brene-brown-course&page_link_url=lifeclass-presents-brene-brown-online-course.html&LoginRegister_action=1&visited_market_landing=1 is where the page is currently located
+**** This is the variables that was tracked for Brene Brown Course page for paid member -betastg environment ******
+****************************************
+evar20 :brenebrowncourse
+evar14 :210355516  (Entity_Id)
+evar5  :package.html
+prop1  :Oprah’s Lifeclass Presents Brené Brown The Gifts of Imperfection -- A six-week eCourse - @OWNTV
+prop2  :brenebrowncourse
+prop4  :landing
+prop5  :brenebrowncourse/lifeclass-presents-brene-brown-online-course.html
+prop6  :own
+prop40 :New
+prop41 :1
+The total number of urls clicked  for this test is 3
+****************************************
+Test now complete for Omniture tracking for Brene Brown Course page for paid member
+End Time now 2013-11-05 14:51:15 -0800
+ 
+Starting Time now 2013-11-05 15:01:23 -0800
+The http://betastg.oprah.com/own-brene-brown-course/lifeclass-presents-brene-brown-landing.html was clicked
+The https://betastg.oprah.com/own-brene-brown-course/lifeclass-presents-brene-brown-online-course.html?LoginRegister_action=1&visited_market_landing=1 was clicked
+Error nessage :
+problem with form submission for Omniture tracking for Brene Brown regisration page for new members
+ 
+Starting Time now 2013-11-05 15:02:53 -0800
+The http://betastg.oprah.com/own-brene-brown-course/lifeclass-presents-brene-brown-landing.html was clicked
+The https://betastg.oprah.com/own-brene-brown-course/lifeclass-presents-brene-brown-online-course.html?LoginRegister_action=1&visited_market_landing=1 was clicked
+Sign-in button clicked on the  registration page for Brene Brown page
+Issue with the Sign-in button  registration for Brene Brown  page 
+The https://betastg.oprah.com/own-brene-brown-course/brene-course-faq.html
+**** This is the variables that was tracked for Brene Brown  page after logging in as new member -betastg environment ******
+************************************
+evar14 :210355516  (Entity_Id)
+evar5  :own-brene-brown-course/brene-course-faq.html
+prop1  :Oprah.com - Live Your Best Life - @OWNTV
+prop2  :brenebrowncourse
+prop40 :New
+prop41 :1
+The total number of urls clicked  for this test is 3
+************************************
+Test now complete for Omniture tracking for Brene Brown registration page for new members
+End Time now 2013-11-05 15:03:30 -0800
+ 
+Starting Time now 2013-11-05 15:03:56 -0800
+The http://www.oprah.com/own-brene-brown-course/lifeclass-presents-brene-brown-landing.html was clicked
+The https://www.oprah.com/own-brene-brown-course/lifeclass-presents-brene-brown-online-course.html?LoginRegister_action=1&visited_market_landing=1 was clicked
+Sign-in button clicked on the  registration page for Brene Brown page
+Issue with the Sign-in button  registration for Brene Brown  page 
+The https://www.oprah.com/own-brene-brown-course/brene-course-faq.html
+**** This is the variables that was tracked for Brene Brown  page after logging in as new member -prod environment ******
+************************************
+evar14 :210950900  (Entity_Id)
+evar5  :own-brene-brown-course/brene-course-faq.html
+prop1  :Oprah.com - Live Your Best Life - @OWNTV
+prop2  :brenebrowncourse
+prop40 :New
+prop41 :1
+The total number of urls clicked  for this test is 3
+************************************
+Test now complete for Omniture tracking for Brene Brown registration page for new members
+End Time now 2013-11-05 15:04:20 -0800
+ 
+Starting Time now 2013-11-05 15:04:42 -0800
+The http://www.oprah.com/own-brene-brown-course/lifeclass-presents-brene-brown-landing.html was clicked
+The https://www.oprah.com/own-brene-brown-course/lifeclass-presents-brene-brown-online-course.html?LoginRegister_action=1&visited_market_landing=1 was clicked
+Sign-in button clicked on the  registration page for Brene Brown page
+Issue with the Sign-in button  registration for Brene Brown  page 
+The https://www.oprah.com/own-brene-brown-course/brene-course-faq.html
+**** This is the variables that was tracked for Brene Brown  page after logging in as new member -livestg environment ******
+************************************
+evar14 :210950900  (Entity_Id)
+evar5  :own-brene-brown-course/brene-course-faq.html
+prop1  :Oprah.com - Live Your Best Life - @OWNTV
+prop2  :brenebrowncourse
+prop40 :New
+prop41 :1
+The total number of urls clicked  for this test is 3
+************************************
+Test now complete for Omniture tracking for Brene Brown registration page for new members
+End Time now 2013-11-05 15:05:17 -0800
+ 
+Starting Time now 2013-11-05 15:06:18 -0800
+The http://www.oprah.com/own-brene-brown-course/lifeclass-presents-brene-brown-landing.html was clicked
+The https://www.oprah.com/own-brene-brown-course/lifeclass-presents-brene-brown-online-course.html?LoginRegister_action=1&visited_market_landing=1 was clicked
+Sign_in and continue  button clicked by paid member for Brene Brown page
+http://www.oprah.com/package.html?category=brene-brown-course&page_link_url=lifeclass-presents-brene-brown-online-course.html&LoginRegister_action=1&visited_market_landing=1 is where the page is currently located
+**** This is the variables that was tracked for Brene Brown Course page for paid member -livestg environment ******
+****************************************
+evar20 :brenebrowncourse
+evar14 :210950900  (Entity_Id)
+evar5  :package.html
+prop1  :Oprah’s Lifeclass Presents Brené Brown The Gifts of Imperfection -- A six-week eCourse - @OWNTV
+prop2  :brenebrowncourse
+prop4  :landing
+prop5  :brenebrowncourse/lifeclass-presents-brene-brown-online-course.html
+prop6  :own
+prop40 :New
+prop41 :1
+The total number of urls clicked  for this test is 3
+****************************************
+Test now complete for Omniture tracking for Brene Brown Course page for paid member
+End Time now 2013-11-05 15:07:00 -0800
+ 
+Starting Time now 2013-11-11 13:08:59 -0800
+The http://www.oprah.com/omagazine.html was clicked
+The http://www.oprah.com/register.html was clicked
+Join now button clicked on the Ocom Registration page which navigates to News letter page
+**** This is the variables that was tracked for Omagazine Newsletter page after logging in -prod environment ******
+****************************************
+Error nessage :
+problem with form submission for Omag Subscription for omniture tracking for Omag Newsletter page
+ 
+Starting Time now 2013-11-11 13:10:25 -0800
+Starting Time now 2013-11-11 13:11:20 -0800
+The http://www.oprah.com/omagazine.html was clicked
+The http://www.oprah.com/register.html was clicked
+Join now button clicked on the Ocom Registration page which navigates to News letter page
+**** This is the variables that was tracked for Omagazine Newsletter page after logging in -prod environment ******
+****************************************
+evar10 :211056346  (Entity_id)
+evar5  :create/newsletter.html
+prop1  :Oprah.com - Live Your Best Life - Oprah.com
+prop2  :newsletters
+prop40 :New
+prop41 :1
+The total number of urls clicked  for this test is 2
+****************************************
+Test now complete for Omniture tracking for Omag Newsletter page
+End Time now 2013-11-11 13:11:51 -0800
+ 
+Starting Time now 2013-11-11 13:12:30 -0800
+Starting Time now 2013-11-11 13:14:08 -0800
+The http://www.oprah.com/own-brene-brown-course/lifeclass-presents-brene-brown-landing.html was clicked
+The https://www.oprah.com/own-brene-brown-course/lifeclass-presents-brene-brown-online-course.html?LoginRegister_action=1&visited_market_landing=1 was clicked
+Sign_in and continue  button clicked by paid member for Brene Brown page
+http://www.oprah.com/package.html?category=brene-brown-course&page_link_url=lifeclass-presents-brene-brown-online-course.html&LoginRegister_action=1&visited_market_landing=1 is where the page is currently located
+**** This is the variables that was tracked for Brene Brown Course page for paid member -prod environment ******
+****************************************
+evar20 :brenebrowncourse
+evar14 :210950900  (Entity_Id)
+evar5  :package.html
+prop1  :Oprah’s Lifeclass Presents Brené Brown The Gifts of Imperfection -- A six-week eCourse - @OWNTV
+prop2  :brenebrowncourse
+prop4  :landing
+prop5  :brenebrowncourse/lifeclass-presents-brene-brown-online-course.html
+prop6  :own
+prop40 :New
+prop41 :1
+The total number of urls clicked  for this test is 3
+****************************************
+Test now complete for Omniture tracking for Brene Brown Course page for paid member
+End Time now 2013-11-11 13:14:37 -0800
+ 
+Starting Time now 2013-11-11 13:15:28 -0800
+The http://www.oprah.com/own-brene-brown-course/lifeclass-presents-brene-brown-landing.html was clicked
+The https://www.oprah.com/own-brene-brown-course/lifeclass-presents-brene-brown-online-course.html?LoginRegister_action=1&visited_market_landing=1 was clicked
+Sign-in button clicked on the  registration page for Brene Brown page
+Issue with the Sign-in button  registration for Brene Brown  page 
+The https://www.oprah.com/own-brene-brown-course/brene-course-faq.html
+**** This is the variables that was tracked for Brene Brown  page after logging in as new member -prod environment ******
+************************************
+evar14 :210950900  (Entity_Id)
+evar5  :own-brene-brown-course/brene-course-faq.html
+prop1  :Oprah.com - Live Your Best Life - @OWNTV
+prop2  :brenebrowncourse
+prop40 :New
+prop41 :1
+The total number of urls clicked  for this test is 3
+************************************
+Test now complete for Omniture tracking for Brene Brown registration page for new members
+End Time now 2013-11-11 13:15:52 -0800
+ 
+Starting Time now 2013-11-11 13:16:20 -0800
+The http://www.oprah.com/omagazine.html was clicked
+The http://www.oprah.com/register.html was clicked
+Join now button clicked on the Ocom Registration page which navigates to News letter page
+**** This is the variables that was tracked for Omagazine Newsletter page after logging in -prod environment ******
+****************************************
+evar10 :211056350  (Entity_id)
+evar5  :create/newsletter.html
+prop1  :Oprah.com - Live Your Best Life - Oprah.com
+prop2  :newsletters
+prop40 :New
+prop41 :1
+The total number of urls clicked  for this test is 2
+****************************************
+Test now complete for Omniture tracking for Omag Newsletter page
+End Time now 2013-11-11 13:16:51 -0800
+ 
+Starting Time now Nov/13/2013  4:57pm PST
+The http://www.oprah.com/omagazine.html was clicked
+The http://www.oprah.com/register.html was clicked
+Join now button clicked on the Ocom Registration page which navigates to News letter page
+**** This is the variables that was tracked for Omagazine Newsletter page after logging in -prod environment ******
+****************************************
+evar10 :211057725  (Entity_id)
+evar5  :create/newsletter.html
+prop1  :Oprah.com - Live Your Best Life - Oprah.com
+prop2  :newsletters
+prop40 :New
+prop41 :1
+The total number of urls clicked  for this test is 2
+****************************************
+Test now complete for Omniture tracking for Omag Newsletter page
+Error nessage :
+problem with form submission for Omag Subscription for omniture tracking for Omag Newsletter page
+ 
+Starting Time now Nov/13/2013  4:58pm PST
+The http://www.oprah.com/omagazine.html was clicked
+The http://www.oprah.com/register.html was clicked
+Join now button clicked on the Ocom Registration page which navigates to News letter page
+**** This is the variables that was tracked for Omagazine Newsletter page after logging in -prod environment ******
+****************************************
+evar10 :211057726  (Entity_id)
+evar5  :create/newsletter.html
+prop1  :Oprah.com - Live Your Best Life - Oprah.com
+prop2  :newsletters
+prop40 :New
+prop41 :1
+The total number of urls clicked  for this test is 2
+****************************************
+Test now complete for Omniture tracking for Omag Newsletter page
+End Time now Nov/13/2013  4:58pm PST
+ 
+Starting Time now Nov/13/2013  5:02pm PST
+The http://www.oprah.com/own-brene-brown-course/lifeclass-presents-brene-brown-landing.html was clicked
+The https://www.oprah.com/own-brene-brown-course/lifeclass-presents-brene-brown-online-course.html?LoginRegister_action=1&visited_market_landing=1 was clicked
+Sign_in and continue  button clicked by paid member for Brene Brown page
+http://www.oprah.com/package.html?category=brene-brown-course&page_link_url=lifeclass-presents-brene-brown-online-course.html&LoginRegister_action=1&visited_market_landing=1 is where the page is currently located
+**** This is the variables that was tracked for Brene Brown Course page for paid member -prod environment ******
+****************************************
+evar20 :brenebrowncourse
+evar14 :210950900  (Entity_Id)
+evar5  :package.html
+prop1  :Oprah’s Lifeclass Presents Brené Brown The Gifts of Imperfection -- A six-week eCourse - @OWNTV
+prop2  :brenebrowncourse
+prop4  :landing
+prop5  :brenebrowncourse/lifeclass-presents-brene-brown-online-course.html
+prop6  :own
+prop40 :New
+prop41 :1
+The total number of urls clicked  for this test is 3
+****************************************
+Test now complete for Omniture tracking for Brene Brown Course page for paid member
+End Time now Nov/13/2013  5:02pm PST
+ 
+Starting Time now Nov/13/2013  5:06pm PST
+The http://www.oprah.com/own-brene-brown-course/lifeclass-presents-brene-brown-landing.html was clicked
+The https://www.oprah.com/own-brene-brown-course/lifeclass-presents-brene-brown-online-course.html?LoginRegister_action=1&visited_market_landing=1 was clicked
+Sign-in button clicked on the  registration page for Brene Brown page
+Issue with the Sign-in button  registration for Brene Brown  page 
+The https://www.oprah.com/own-brene-brown-course/brene-course-faq.html
+**** This is the variables that was tracked for Brene Brown  page after logging in as new member -prod environment ******
+************************************
+evar14 :210950900  (Entity_Id)
+evar5  :own-brene-brown-course/brene-course-faq.html
+prop1  :Oprah.com - Live Your Best Life - @OWNTV
+prop2  :brenebrowncourse
+prop40 :New
+prop41 :1
+The total number of urls clicked  for this test is 3
+************************************
+Test now complete for Omniture tracking for Brene Brown registration page for new members
+End Time now Nov/13/2013  5:07pm PST
+ 
