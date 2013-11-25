@@ -27,7 +27,7 @@ else
  env1 = 'PRODUCTION'
 end 
 
-require '/Users/nkrishna/qa/FireFox/Regression/FileVerify.rb';
+require './FileVerify.rb';
 
 f = File.open('output1.txt', 'a')
 puts "** THIS REGRESSION IS DONE USING #{browserName} BROWSER and #{env1} Environment **".green
@@ -37,4 +37,4 @@ f.close
 require './Omag-Omniture-register.rb';
 require './bb_existing_register.rb';
 require './bb_register.rb';
-require './Omniture_sendmail.rb'
+#require './Omniture_sendmail.rb'

@@ -7,9 +7,9 @@ require 'selenium-webdriver'
 require 'colorize'
 require 'date'
 require 'json'
-require '../browse_env_check.rb'
+require './browse_env_check.rb'
 require './clicks.rb'
-require '../date_time.rb'
+require './date_time.rb'
 
 class OmagSkip < Url_check
    include BrowseEnvCheckable	
@@ -22,7 +22,7 @@ x = m.browsecheck(@browser)
 y = m.EnvCheck(@env)
 click_count = 0
 
-configuration = JSON.parse(File.read('../conf.json'))
+configuration = JSON.parse(File.read('./conf.json'))
 brene = configuration ["Brene"]
 
 file = m.ReadFile('output1.txt')
