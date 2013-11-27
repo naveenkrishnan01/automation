@@ -1,0 +1,4 @@
+automation
+==========
+
+Automation script
