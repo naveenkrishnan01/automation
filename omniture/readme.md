@@ -2,7 +2,7 @@
 # these scripts which will verify the links, the clicks of the links and in some cases also scrape the page for any
 # specific variables 
 # 
-###  The requirements for  running the script is  #####
+#####:  The requirements for  running the script is  #######
 
 # 1) gem install watir
 # 2) pull the code from github
@@ -11,7 +11,9 @@
 # It is gmail account that the script uses
 # 5) if step 4 is used,  uncomment Omniture_sendmail.rb from the the 'run-omniture.rb'
 
-#####  Output displays ######
+#######  Output displays ########
 
 # a) Output is displayed on the console and also written to txt file
 # b) If email is triggered, then the txt file is attached to the email.
+
+
