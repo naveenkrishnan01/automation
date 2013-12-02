@@ -1,12 +1,12 @@
 ** THIS REGRESSION IS DONE USING FireFox BROWSER and PRODUCTION Environment **
  
-Starting Time now Nov/25/2013 10:18am PST
+Starting Time now Dec/01/2013 12:39am PST
 The http://www.oprah.com/omagazine.html was clicked
 The http://www.oprah.com/register.html was clicked
 Join now button clicked on the Ocom Registration page which navigates to News letter page
 **** This is the variables that was tracked for Omagazine Newsletter page after logging in -prod environment ******
 ****************************************
-evar10 :211066243  (Entity_id)
+evar10 :211068592  (Entity_id)
 evar5  :create/newsletter.html
 prop1  :Oprah.com - Live Your Best Life - Oprah.com
 prop2  :newsletters
@@ -15,9 +15,9 @@ prop41 :1
 The total number of urls clicked  for this test is 2
 ****************************************
 Test now complete for Omniture tracking for Omag Newsletter page
-End Time now Nov/25/2013 10:18am PST
+End Time now Dec/01/2013 12:42am PST
  
-Starting Time now Nov/25/2013 10:18am PST
+Starting Time now Dec/01/2013 12:42am PST
 The http://www.oprah.com/own-brene-brown-course/lifeclass-presents-brene-brown-landing.html was clicked
 The https://www.oprah.com/own-brene-brown-course/lifeclass-presents-brene-brown-online-course.html?LoginRegister_action=1&visited_market_landing=1 was clicked
 Sign_in and continue  button clicked by paid member for Brene Brown page
@@ -37,9 +37,9 @@ prop41 :1
 The total number of urls clicked  for this test is 3
 ****************************************
 Test now complete for Omniture tracking for Brene Brown Course page for paid member
-End Time now Nov/25/2013 10:19am PST
+End Time now Dec/01/2013 12:43am PST
  
-Starting Time now Nov/25/2013 10:19am PST
+Starting Time now Dec/01/2013 12:43am PST
 The http://www.oprah.com/own-brene-brown-course/lifeclass-presents-brene-brown-landing.html was clicked
 The https://www.oprah.com/own-brene-brown-course/lifeclass-presents-brene-brown-online-course.html?LoginRegister_action=1&visited_market_landing=1 was clicked
 Sign-in button clicked on the  registration page for Brene Brown page
@@ -56,5 +56,5 @@ prop41 :1
 The total number of urls clicked  for this test is 3
 ************************************
 Test now complete for Omniture tracking for Brene Brown registration page for new members
-End Time now Nov/25/2013 10:19am PST
+End Time now Dec/01/2013 12:45am PST
  
