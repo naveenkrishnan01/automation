@@ -1,0 +1,10 @@
+** THIS REQUEST RESPONSE TEST IS DONE IN  PRODUCTION ENVIRONMENT **
+ 
+Starting Time now 2013-11-26 11:21:26 -0800
+**** Article Page Types URL ******
+200  Looking good for url :http://www.oprah.com/health/100-Pounds-Before-and-After
+200  Looking good for url :http://www.oprah.com/oprahdotcom/In-th-Green-Room-With-Pink
+200  Looking good for url :http://www.oprah.com/oprahshow/Fran-Drescher-and-Peter-Jacobson/5
+200  Looking good for url :http://www.oprah.com/spirit/Jane-Fondas-Daughter-Visits-Her-Biological-Family
+200  Looking good for url :http://www.oprah.com/food/Top-Chef-Masters-Susan-Feniger-Talks-About-Her-Love-of-Street-Food_1
+200  Looking good for url :http://www.oprah.com/oprahradio/Why-Chinese-Mothers-Are-Superior-Audio
