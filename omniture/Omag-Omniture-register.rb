@@ -39,14 +39,14 @@ f.puts "Starting Time now #{date_obj.dt}"
 browser = m.browseEnv(@name)
 
 if y == 'betastg'
-browser.goto 'http://ownaccess:oprah@betamyown.oprah.com/dump.html'
-browser.goto 'http://ownaccess:oprah@betastg.oprah.com/index.html'
+browser.goto 'http://ownaccess:oprah@blah'
+browser.goto 'http://ownaccess:oprah@blah'
  begin
  rescue Timeout::Error => e
 end
  elsif y == 'livestg'
  browser.cookies.clear
- browser.goto 'http://myown.oprah.com/cookieMgr.html'
+ browser.goto 'http://myown.oprah.com/blah'
  browser.text_field(:id => 'check_staging').set('1')
  browser.button(:class => 'btn btn-primary').click;
 sleep 3;
@@ -78,7 +78,6 @@ browser.link(:href, 'http://betastg.oprah.com/omagazine.html').click;
 click_count += 1
 f.puts "The http://betastg.oprah.com/omagazine.html was clicked"
 sleep 5;
-#browser.link(:href, 'http://betamyown.oprah.com/register.html').fire_event('onclick');	
 browser.goto  "http://betamyown.oprah.com/register.html"
 sleep 5;
 @t = m.url_check_pt("http://betamyown.oprah.com/omagazine.html")
