@@ -39,10 +39,10 @@ f.puts "Starting Time now #{date_obj.dt}"
 browser = m.browseEnv(@name)
 
 if y == 'betastg'
-browser.goto 'http://ownaccess:oprah@betamyown.oprah.com/dump.html'
-browser.goto 'http://ownaccess:oprah@betastg.oprah.com/index.html'
-browser.goto 'http://ownaccess:oprah@betamyown.oprah.com/dump.html'
-browser.goto 'http://ownaccess:oprah@betastg.oprah.com/index.html'
+browser.goto 'http://ownaccess:oprah@blah'
+browser.goto 'http://ownaccess:oprah@blah'
+browser.goto 'http://ownaccess:oprah@blah'
+browser.goto 'http://ownaccess:oprah@blah'
 sleep 1;
 browser.goto 'http://betastg.oprah.com/own-brene-brown-course/lifeclass-presents-brene-brown-landing.html'
  begin
@@ -50,7 +50,7 @@ browser.goto 'http://betastg.oprah.com/own-brene-brown-course/lifeclass-presents
 end
  elsif y == 'livestg'
  browser.cookies.clear
- browser.goto 'http://myown.oprah.com/cookieMgr.html'
+ browser.goto 'http://myown.oprah.com/blah'
  browser.text_field(:id => 'check_staging').set('1')
  browser.button(:class => 'btn btn-primary').click;
 sleep 3;
