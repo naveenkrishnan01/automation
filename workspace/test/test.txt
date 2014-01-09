@@ -1,0 +1,11 @@
+#!/usr/bin/ruby
+txt='javascript'
+
+re1='((?:[a-z][a-z]+))'	# Word 1
+
+re=(re1)
+m=Regexp.new(re,Regexp::IGNORECASE);
+if m.match(txt)
+    word1=m.match(txt)[1];
+    puts "("<<word1<<")"<< "\n"
+end

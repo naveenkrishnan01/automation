@@ -1,0 +1,60 @@
+** THIS REGRESSION IS DONE USING FIREFOX BROWSER **
+Starting Time now 2013-08-14 17:39:44 -0700
+301  Looking good for url : http://www.oprah.com
+200  Looking good for url : http://www.oprah.com/own-oprahs-next-chapter/oprahs-next-chapter.html
+200  Looking good for url : http://www.oprah.com/oprahs-lifeclass/oprahs-lifeclass.html
+200  Looking good for url : http://www.oprah.com/own
+200  Looking good for url : http://www.oprah.com/own-iyanla-fix-my-life/iyanla-social-buzz.html
+200  Looking good for url : http://www.oprah.com/own-iyanla-fix-my-life/iyanla-fix-my-life.html
+200  Looking good for url : http://www.oprah.com/own-iyanla-fix-my-life/iyanla-fix-my-life-episodes.html
+200  Looking good for url : http://www.oprah.com/own-iyanla-fix-my-life/iyanla-fix-my-life-videos.html
+200  Looking good for url : http://www.oprah.com/own-iyanla-fix-my-life/the-work.html
+200  Looking good for url : http://www.oprah.com/packages/owners.html
+200  Looking good for url : http://www.oprah.com/packages/video-page.html
+200  Looking good for url : http://www.oprah.com/owners/OWNers-Events
+200  Looking good for url : http://www.oprah.com/packages/engage.html
+200  Looking good for url : http://www.oprah.com/packages/social.html
+200  Looking good for url : http://www.oprah.com/packages/blog.html
+200  Looking good for url : http://www.oprah.com/owners/About-OWNers-Frequently-Asked-Questions
+200  Looking good for url : http://www.oprah.com/oprahs-lifeclass/oprahs-lifeclass-videos.html
+200  Looking good for url : http://www.oprah.com/oprahs-lifeclass/oprahs-lifeclass-classes.html
+200  Looking good for url : http://www.oprah.com/oprahs-lifeclass/life-work.html
+200  Looking good for url : http://www.oprah.com/oprahs-lifeclass/webcast-landing.html
+End Time now 2013-08-14 17:39:59 -0700
+Starting Time now 2013-08-14 17:40:00 -0700
+Spirit tab is tested for Origin Check
+featured videos page clicked for Origin Check
+check super soul sunday for Origin Check
+Test is now complete for Origin Check
+End Time now 2013-08-14 17:40:22 -0700
+Starting Time now 2013-08-14 17:40:24 -0700
+Test is now complete for next chapter
+End Time now 2013-08-14 17:40:46 -0700
+Starting Time now 2013-08-14 17:40:47 -0700
+Featured link successful
+Newest link successful
+Page 2 pagination done
+Test is now complete for o_magazine
+End Time now 2013-08-14 17:41:07 -0700
+Starting Time now 2013-08-14 17:41:08 -0700
+Test is now complete for home tabs
+End Time now 2013-08-14 17:41:34 -0700
+Starting Time now 2013-08-14 17:41:35 -0700
+Test is now complete for OWNTV
+End Time now 2013-08-14 17:41:59 -0700
+Starting Time now 2013-08-14 17:42:01 -0700
+Error message :
+Timeout::Error
+Starting Time now 2013-08-14 17:43:12 -0700
+Test now complete for Omag Subscription with New Ocom account and nothing checked
+End Time now 2013-08-14 17:43:50 -0700
+Starting Time now 2013-08-14 17:43:51 -0700
+ Test is now complete for carousal on home page
+End Time now 2013-08-14 17:44:11 -0700
+Starting Time now 2013-08-14 17:44:12 -0700
+Error message :
+Timeout::Error
+The page redirects to oprah.com
+The page redirects to oprah.comi for Power of Poetry
+Test is now complete for Package Check
+End Time now 2013-08-14 17:45:44 -0700

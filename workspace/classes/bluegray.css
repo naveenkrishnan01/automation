@@ -1,0 +1,113 @@
+body {
+	font: normal 11px auto "Trebuchet MS", Verdana, Arial, Helvetica, sans-serif;
+	color: #4f6b72;
+	background: #E6EAE9;
+}
+
+a {
+	color: #c75f3e;
+}
+
+#mytable {
+	width: 860px;
+	padding: 0;
+	margin: 0;
+}
+
+caption {
+	padding: 0 0 5px 0;
+	width: 700px;	
+	font: italic 11px "Trebuchet MS", Verdana, Arial, Helvetica, sans-serif;
+	text-align: right;
+}
+
+th {
+	text-align: center;
+	font: bold 11px "Trebuchet MS", Verdana, Arial, Helvetica, sans-serif;
+	color: #4f6b72;
+	border-left: 1px solid #C1DAD7;
+	border-right: 1px solid #C1DAD7;
+	border-bottom: 1px solid #C1DAD7;
+	border-top: 1px solid #C1DAD7;
+	letter-spacing: 2px;
+	text-transform: uppercase;
+	padding: 6px 6px 6px 12px;
+	background: #CAE8EA url(images/bg_header.jpg) no-repeat;
+}
+
+th.header {
+	font: bold 16px "Trebuchet MS", Verdana, Arial, Helvetica, sans-serif;
+}
+
+th.nobg {
+
+	background: none;
+}
+
+td.bdr {
+	border-left: 1px solid #C1DAD7;
+	border-right: 1px solid #C1DAD7;
+	border-bottom: 1px solid #C1DAD7;
+	border-top: 1px solid #C1DAD7;
+}
+
+td {
+	color: #4f6b72;
+	background: #fff;
+	padding: 1px 1px 1px 1px;
+	color: #4f6b72;
+}
+
+td.step {
+	font: normal 14px "Trebuchet MS", Verdana, Arial, Helvetica, sans-serif;
+	border-left: 1px solid #C1DAD7;
+	border-right: 1px solid #C1DAD7;
+	border-bottom: 1px solid #C1DAD7;
+	border-top: 1px solid #C1DAD7;
+	background: #fff;
+	padding: 1px 1px 1px 1px;
+	color: #000000;
+}
+
+td.result_text {
+	font: normal 14px "Trebuchet MS", Verdana, Arial, Helvetica, sans-serif;
+	border-left: 1px solid #C1DAD7;
+	border-right: 1px solid #C1DAD7;
+	border-bottom: 1px solid #C1DAD7;
+	border-top: 1px solid #C1DAD7;
+	background: #fff;
+	padding: 1px 1px 1px 1px;
+	color: #000000;
+}
+
+
+td.result_pass {
+	font: bold 12px "Trebuchet MS", Verdana, Arial, Helvetica, sans-serif;
+	text-transform: uppercase;
+	border-right: 1px solid #C1DAD7;
+	border-bottom: 1px solid #C1DAD7;
+	background: green;
+	padding: 1px 1px 1px 1px;
+	color: #FFFFFF;
+	text-align: center;
+}
+
+td.result_fail {
+	font: bold 12px "Trebuchet MS", Verdana, Arial, Helvetica, sans-serif;
+	text-transform: uppercase;
+	border-right: 1px solid #C1DAD7;
+	border-bottom: 1px solid #C1DAD7;
+	background: red;
+	padding: 1px 1px 1px 1px;
+	color: #FFFFFF;
+	text-align: center;
+}
+
+td.alt {
+	font-weight: bold;
+	background: #C1DAD7;
+	color: #797268;
+	text-align: center;
+}
+
+}

@@ -1,0 +1,205 @@
+** THIS REGRESSION IS DONE USING FIREFOX BROWSER **
+Starting Time now 2013-08-20 14:21:21 -0700
+301  Looking good for url : http://www.oprah.com
+200  Looking good for url : http://www.oprah.com/own-oprahs-next-chapter/oprahs-next-chapter.html
+200  Looking good for url : http://www.oprah.com/oprahs-lifeclass/oprahs-lifeclass.html
+200  Looking good for url : http://www.oprah.com/own
+200  Looking good for url : http://www.oprah.com/own-iyanla-fix-my-life/iyanla-social-buzz.html
+200  Looking good for url : http://www.oprah.com/own-iyanla-fix-my-life/iyanla-fix-my-life.html
+200  Looking good for url : http://www.oprah.com/own-iyanla-fix-my-life/iyanla-fix-my-life-episodes.html
+200  Looking good for url : http://www.oprah.com/own-iyanla-fix-my-life/iyanla-fix-my-life-videos.html
+200  Looking good for url : http://www.oprah.com/own-iyanla-fix-my-life/the-work.html
+200  Looking good for url : http://www.oprah.com/packages/owners.html
+200  Looking good for url : http://www.oprah.com/packages/video-page.html
+200  Looking good for url : http://www.oprah.com/owners/OWNers-Events
+200  Looking good for url : http://www.oprah.com/packages/engage.html
+200  Looking good for url : http://www.oprah.com/packages/social.html
+200  Looking good for url : http://www.oprah.com/packages/blog.html
+200  Looking good for url : http://www.oprah.com/owners/About-OWNers-Frequently-Asked-Questions
+200  Looking good for url : http://www.oprah.com/oprahs-lifeclass/oprahs-lifeclass-videos.html
+200  Looking good for url : http://www.oprah.com/oprahs-lifeclass/oprahs-lifeclass-classes.html
+200  Looking good for url : http://www.oprah.com/oprahs-lifeclass/life-work.html
+200  Looking good for url : http://www.oprah.com/oprahs-lifeclass/webcast-landing.html
+End Time now 2013-08-20 14:21:27 -0700
+Starting Time now 2013-08-20 14:21:27 -0700
+Spirit tab is tested for Origin Check
+featured videos page clicked for Origin Check
+check super soul sunday for Origin Check
+Test is now complete for Origin Check
+End Time now 2013-08-20 14:21:51 -0700
+Starting Time now 2013-08-20 14:21:52 -0700
+Test is now complete for next chapter
+End Time now 2013-08-20 14:22:15 -0700
+Starting Time now 2013-08-20 14:22:16 -0700
+Featured link successful
+Newest link successful
+Page 2 pagination done
+Test is now complete for o_magazine
+End Time now 2013-08-20 14:22:37 -0700
+Starting Time now 2013-08-20 14:22:39 -0700
+Test is now complete for home tabs
+End Time now 2013-08-20 14:23:13 -0700
+Starting Time now 2013-08-20 14:23:14 -0700
+Test is now complete for OWNTV
+End Time now 2013-08-20 14:23:38 -0700
+Starting Time now 2013-08-20 14:23:39 -0700
+Test is now complete for More drop down list in Home 
+End Time now 2013-08-20 14:24:05 -0700
+Starting Time now 2013-08-20 14:24:06 -0700
+Test now complete for Omag Subscription with New Ocom account and nothing checked
+End Time now 2013-08-20 14:24:48 -0700
+Starting Time now 2013-08-20 14:24:49 -0700
+ Test is now complete for carousal on home page
+End Time now 2013-08-20 14:25:09 -0700
+Starting Time now 2013-08-20 14:25:10 -0700
+Test is now complete for Oprah's life class
+End Time now 2013-08-20 14:25:35 -0700
+The page redirects to oprah.com
+The page redirects to oprah.comi for Power of Poetry
+Test is now complete for Package Check
+End Time now 2013-08-20 14:26:09 -0700
+Starting Time now 2013-09-06 09:55:07 -0700
+ Test is now complete for carousal on home page
+End Time now 2013-09-06 09:55:33 -0700
+Starting Time now 2013-09-06 10:06:41 -0700
+Starting Time now 2013-09-06 10:08:27 -0700
+Starting Time now 2013-09-06 10:08:53 -0700
+Starting Time now 2013-09-06 10:10:17 -0700
+Starting Time now 2013-09-06 10:10:20 -0700
+Starting Time now 2013-09-06 10:26:35 -0700
+Starting Time now 2013-09-06 10:27:08 -0700
+Starting Time now 2013-09-06 10:27:28 -0700
+Starting Time now 2013-09-06 10:38:41 -0700
+Starting Time now 2013-09-06 10:39:31 -0700
+Starting Time now 2013-09-06 10:40:21 -0700
+Starting Time now 2013-09-06 10:49:35 -0700
+Starting Time now 2013-09-06 10:49:57 -0700
+ Test is now complete for carousal on home page
+End Time now 2013-09-06 10:50:18 -0700
+Starting Time now 2013-09-06 10:51:18 -0700
+ Test is now complete for carousal on home page
+End Time now 2013-09-06 10:51:37 -0700
+Starting Time now 2013-09-06 11:02:29 -0700
+ Test is now complete for carousal on home page
+End Time now 2013-09-06 11:02:52 -0700
+Starting Time now 2013-09-06 11:11:39 -0700
+ Test is now complete for carousal on home page
+End Time now 2013-09-06 11:11:59 -0700
+Starting Time now 2013-09-06 11:12:50 -0700
+ Test is now complete for carousal on home page
+End Time now 2013-09-06 11:13:10 -0700
+Starting Time now 2013-09-06 11:13:19 -0700
+Error nessage :
+problem with form submission
+Starting Time now 2013-09-06 11:14:04 -0700
+Error nessage :
+problem with form submission
+Starting Time now 2013-09-06 11:14:16 -0700
+Error nessage :
+problem with form submission
+Starting Time now 2013-09-06 11:16:46 -0700
+Error nessage :
+problem with form submission
+Starting Time now 2013-09-06 11:17:18 -0700
+Error nessage :
+problem with form submission
+Starting Time now 2013-09-06 11:18:18 -0700
+Starting Time now 2013-09-06 11:18:30 -0700
+Starting Time now 2013-09-06 11:18:36 -0700
+Starting Time now 2013-09-06 11:18:39 -0700
+Starting Time now 2013-09-06 11:19:16 -0700
+Starting Time now 2013-09-06 11:19:27 -0700
+Starting Time now 2013-09-06 11:19:30 -0700
+Starting Time now 2013-09-06 11:20:06 -0700
+Starting Time now 2013-09-06 11:20:40 -0700
+Starting Time now 2013-09-06 11:23:44 -0700
+Starting Time now 2013-09-06 11:24:39 -0700
+Starting Time now 2013-09-06 11:24:50 -0700
+Starting Time now 2013-09-06 11:25:29 -0700
+Starting Time now 2013-09-06 11:26:15 -0700
+Starting Time now 2013-09-06 11:26:27 -0700
+Starting Time now 2013-09-06 11:26:48 -0700
+Starting Time now 2013-09-06 11:27:25 -0700
+Starting Time now 2013-09-06 12:10:14 -0700
+Starting Time now 2013-09-06 12:10:46 -0700
+ Test is now complete for carousal on home page
+End Time now 2013-09-06 12:11:09 -0700
+Starting Time now 2013-09-06 12:11:56 -0700
+ Test is now complete for carousal on home page
+End Time now 2013-09-06 12:12:15 -0700
+Starting Time now 2013-09-06 12:12:51 -0700
+Starting Time now 2013-09-06 12:14:58 -0700
+Starting Time now 2013-09-06 12:15:36 -0700
+Starting Time now 2013-09-06 12:16:15 -0700
+Starting Time now 2013-09-06 12:16:33 -0700
+Starting Time now 2013-09-06 12:18:50 -0700
+ Test is now complete for carousal on home page
+End Time now 2013-09-06 12:19:32 -0700
+Starting Time now 2013-09-06 12:19:37 -0700
+Starting Time now 2013-09-06 12:20:36 -0700
+ Test is now complete for carousal on home page
+End Time now 2013-09-06 12:20:55 -0700
+Starting Time now 2013-09-06 12:22:28 -0700
+ Test is now complete for carousal on home page
+End Time now 2013-09-06 12:22:48 -0700
+Starting Time now 2013-09-06 12:24:48 -0700
+ Test is now complete for carousal on home page
+End Time now 2013-09-06 12:25:08 -0700
+Starting Time now 2013-09-06 12:25:14 -0700
+ Test is now complete for carousal on home page
+End Time now 2013-09-06 12:25:40 -0700
+Starting Time now 2013-09-06 12:25:48 -0700
+Error nessage :
+problem with form submission
+Starting Time now 2013-09-06 12:26:05 -0700
+Error nessage :
+problem with form submission
+Starting Time now 2013-09-06 12:26:28 -0700
+ Test is now complete for carousal on home page
+End Time now 2013-09-06 12:26:47 -0700
+Starting Time now 2013-09-06 12:26:52 -0700
+ Test is now complete for carousal on home page
+End Time now 2013-09-06 12:27:13 -0700
+Starting Time now 2013-09-06 17:03:32 -0700
+Starting Time now 2013-09-06 17:08:47 -0700
+ Test is now complete for carousal on home page
+End Time now 2013-09-06 17:09:09 -0700
+Starting Time now 2013-09-06 17:09:22 -0700
+ Test is now complete for carousal on home page
+End Time now 2013-09-06 17:09:49 -0700
+Starting Time now 2013-09-06 17:10:00 -0700
+ Test is now complete for carousal on home page
+End Time now 2013-09-06 17:10:28 -0700
+Starting Time now 2013-09-06 17:11:37 -0700
+ Test is now complete for carousal on home page
+End Time now 2013-09-06 17:11:57 -0700
+Starting Time now 2013-09-06 17:12:11 -0700
+ Test is now complete for carousal on home page
+End Time now 2013-09-06 17:12:39 -0700
+Starting Time now 2013-09-06 17:33:51 -0700
+ Test is now complete for carousal on home page
+End Time now 2013-09-06 17:34:22 -0700
+Starting Time now 2013-09-06 17:35:07 -0700
+ Test is now complete for carousal on home page
+End Time now 2013-09-06 17:35:26 -0700
+Starting Time now 2013-09-06 17:51:05 -0700
+ Test is now complete for carousal on home page
+End Time now 2013-09-06 17:51:32 -0700
+Starting Time now 2013-09-06 17:52:20 -0700
+ Test is now complete for carousal on home page
+End Time now 2013-09-06 17:52:47 -0700
+Starting Time now 2013-09-06 18:03:31 -0700
+ Test is now complete for carousal on home page
+End Time now 2013-09-06 18:03:50 -0700
+Starting Time now 2013-09-09 10:07:20 -0700
+ Test is now complete for carousal on home page
+End Time now 2013-09-09 10:08:02 -0700
+Starting Time now 2013-09-09 10:08:10 -0700
+Error nessage :
+problem with form submission
+Starting Time now 2013-09-09 10:09:02 -0700
+ Test is now complete for carousal on home page
+End Time now 2013-09-09 10:09:30 -0700
+Starting Time now 2013-09-09 10:09:45 -0700
+ Test is now complete for carousal on home page
+End Time now 2013-09-09 10:10:12 -0700

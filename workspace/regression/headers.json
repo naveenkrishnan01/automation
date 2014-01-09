@@ -1,0 +1,1 @@
+[{"action":"Add","name":"X-Forwarded-For","value":"217.163.16.223","comment":"UK IP","enabled":false},{"action":"Add","name":"X-Forwarded-For","value":"123.100.98.246","comment":"NZ","enabled":false},{"action":"Add","name":"X-Forwarded-For","value":"202.146.213.7","comment":"AUS","enabled":true}]

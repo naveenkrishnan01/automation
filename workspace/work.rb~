@@ -1,0 +1,2 @@
+require "news_letter"
+require "resque/tasks"

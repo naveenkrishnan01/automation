@@ -1,0 +1,76 @@
+** THIS REGRESSION FOR REGISTRATION IS DONE USING FireFox BROWSER and LIVESTAGE Environment **
+ 
+Starting Time now 2013-11-08 10:33:56 -0800
+Join now button clicked on the Registration page
+New letter box clicked for all News letter
+As expected, page redirects to oprah.com
+Test now complete for Omag Subscription for News letter checked redirecting to oprah.com. This is for the Finish button
+End Time now 2013-11-08 10:35:00 -0800
+ 
+Starting Time now 2013-11-08 10:35:01 -0800
+Join now button clicked on the Registration page
+New letter box clicked for all News letter
+As expected, page redirects to oprah.com
+Test now complete for Omag Subscription for News letter checked redirecting to originating page.This is for the Finish button
+End Time now 2013-11-08 10:36:16 -0800
+ 
+Starting Time now 2013-11-08 10:36:17 -0800
+Join now button clicked on the Registration page
+New letter box clicked for all News letter
+As expected, page redirects to oprah.com
+Test now complete for Omag Subscription for News letter checked redirecting to originating page.This is for the skip offer button
+End Time now 2013-11-08 10:37:20 -0800
+ 
+Starting Time now 2013-11-08 10:37:21 -0800
+ The comment that was entered - This is a test is displayed
+Test now complete for Own Oprah Life class and redirectng to questionnare page with the comments entered earlier. This is for the finish button
+End Time now 2013-11-08 10:38:23 -0800
+ 
+Starting Time now 2013-11-08 10:38:24 -0800
+Clicked on Facebook Test user on the admin tool
+problem with form submission for new Facebook registration for the finish button
+ 
+Starting Time now Nov/13/2013  4:25pm PST
+Join now button clicked on the Registration page
+New letter box clicked for all News letter
+As expected, page redirects to oprah.com
+Test now complete for Omag Subscription for News letter checked redirecting to oprah.com. This is for the Finish button
+End Time now Nov/13/2013  4:26pm PST
+ 
+Starting Time now Nov/13/2013  4:29pm PST
+Join now button clicked on the Registration page
+New letter box clicked for all News letter
+As expected, page redirects to oprah.com
+Test now complete for Omag Subscription for News letter checked redirecting to originating page.This is for the Finish button
+End Time now Nov/13/2013  4:29pm PST
+ 
+Starting Time now Nov/13/2013  4:38pm PST
+Join now button clicked on the Registration page
+New letter box clicked for all News letter
+As expected, page redirects to oprah.com
+Test now complete for Omag Subscription for News letter checked redirecting to originating page.This is for the skip offer button
+Error nessage :
+problem with form submission for Omag Subscription for Owners checked for new Ocom account
+ 
+Starting Time now Nov/13/2013  4:40pm PST
+Join now button clicked on the Registration page
+New letter box clicked for all News letter
+As expected, page redirects to oprah.com
+Test now complete for Omag Subscription for News letter checked redirecting to originating page.This is for the skip offer button
+End Time now Nov/13/2013  4:41pm PST
+ 
+Starting Time now Nov/13/2013  4:45pm PST
+ The comment that was entered - This is a test is displayed
+Test now complete for Own Oprah Life class and redirectng to questionnare page with the comments entered earlier. This is for the finish button
+End Time now Nov/13/2013  4:46pm PST
+ 
+Starting Time now Nov/13/2013  4:49pm PST
+Clicked on Facebook Test user on the admin tool
+Email and Password generated thru admin tool by clicking Create User
+problem with form submission for new Facebook registration for the finish button
+ 
+Starting Time now Nov/13/2013  4:50pm PST
+Clicked on Facebook Test user on the admin tool
+Email and Password generated thru admin tool by clicking Create User
+problem with form submission for new Facebook registration for the finish button
+ 

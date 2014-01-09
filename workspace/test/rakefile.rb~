@@ -1,0 +1,3 @@
+require 'resque/helper'
+require 'resque/tasks'
+require './computer_worker.rb' # (name of the worker file)

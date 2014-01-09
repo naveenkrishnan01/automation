@@ -1,0 +1,11 @@
+Starting Time now 2013-11-19 23:32:55 -0800
+The print icon clicked and  found on the article page spirit/Jane-Fondas-Daughter-Visits-Her-Biological-Family
+Test now complete for print icon on the article page
+End Time now 2013-11-19 23:33:12 -0800
+ 
+Starting Time now 2013-12-19 18:24:57 -0800
+Starting Time now 2013-12-19 18:29:55 -0800
+The print icon clicked and  found on the article page spirit/Jane-Fondas-Daughter-Visits-Her-Biological-Family
+Test now complete for print icon on the article page
+End Time now 2013-12-19 18:30:12 -0800
+ 

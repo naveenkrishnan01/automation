@@ -1,0 +1,28 @@
+The icon grid exists 
+Icon moved from Feature to 1st slot on favourites
+Icon moved from Feature to 2nd slot on favourites
+flyout functionality works
+Scroll to section 2 works
+Scroll to section 3 works
+Scroll to section 1 works
+scroll from top to bottom functionality works
+Search button clicked
+Suggestive search works
+Test now complete for OWN2
+End Time now 2014-01-02 10:08:44 -0800
+Start Time now 2014-01-09 10:36:33 -0800
+The icon grid does NOT exists
+problem with own2 home page navigation
+Start Time now 2014-01-09 10:37:09 -0800
+The icon grid exists 
+Icon moved from Feature to 1st slot on favourites
+Icon moved from Feature to 2nd slot on favourites
+flyout functionality works
+Scroll to section 2 works
+Scroll to section 3 works
+Scroll to section 1 works
+scroll from top to bottom functionality works
+Search button clicked
+Suggestive search works
+Test now complete for OWN2
+End Time now 2014-01-09 10:37:54 -0800

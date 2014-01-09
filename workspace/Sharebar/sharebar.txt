@@ -1,0 +1,31 @@
+** THIS REGRESSION IS DONE USING Chrome BROWSER and PRODUCTION Environment **
+ 
+Starting Time now 2013-10-02 10:33:04 -0700
+The print icon clicked and  found on the article page spirit/Jane-Fondas-Daughter-Visits-Her-Biological-Family
+Error nessage :
+problem with print icon on the article page
+ 
+Starting Time now 2013-10-02 10:33:29 -0700
+The comment icon is found and clicked on the article page /food/What-Do-You-Want-to-Eat
+Error nessage :
+problem with comment icon on the article page food/What-Do-You-Want-to-Eat
+ 
+Starting Time now 2013-10-02 10:33:48 -0700
+The Envelope Email Icon is found and clicked on the article page /food/What-Do-You-Want-to-Eat
+Error nessage :
+problem with Envelope Email icon on the article page food/What-Do-You-Want-to-Eat
+ 
+Starting Time now 2013-10-02 10:34:00 -0700
+The Pinterest icon is found and clicked on the article page /style/How-to-Find-Your-Own-Style
+Test now complete for Pinterest icon on the article page /style/How-to-Find-Your-Own-Style
+End Time now 2013-10-02 10:34:17 -0700
+ 
+Starting Time now 2013-10-02 10:34:18 -0700
+Error nessage :
+problem with twitter icon on the article page style/How-to-Find-Your-Own-Style
+ 
+Starting Time now 2013-10-02 10:35:27 -0700
+The Facebook-like icon found on the article page /style/How-to-Find-Your-Own-Style
+Test now complete for Facebook-like icon on the article page /style/How-to-Find-Your-Own-Style
+End Time now 2013-10-02 10:35:42 -0700
+ 

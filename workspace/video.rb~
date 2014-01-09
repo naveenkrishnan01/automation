@@ -3,6 +3,7 @@
 require 'rubygems'
 
 require 'watir-webdriver'
+require 'selenium-webdriver'
 require 'colorize'
 require 'date'
 require 'json'
@@ -13,7 +14,7 @@ class Video < BrowseEnv
  include DateTimeable
 end
 
-add_obj = Video.new
+add_obj = Hometabs.new
 @browser1 = ARGV[0]
 @env = ARGV[1]
 
@@ -28,7 +29,6 @@ puts "open the file"
 
 puts "Starting Time now #{add_obj.dt}".cyan
 f.puts "Starting Time now #{add_obj.dt}"
-puts "Script started is video.rb"
 
 if x == 'chrome'
    browser = Watir::Browser.new :chrome
@@ -66,54 +66,27 @@ sleep 4;
 ###############################
 # click the video on the page 
 ##############################
-if y == 'prod' || y == ''
-browser.execute_script <<-JS
+puts browser.execute_script <<-JS
 Global.videoPlayer.sendEvent("play")
 JS
 sleep 45;
 
-browser.execute_script <<-JS
+puts browser.execute_script <<-JS
 Global.videoPlayer.sendEvent("pause")
 JS
 sleep 5;
 
-browser.execute_script <<-JS
+puts browser.execute_script <<-JS
 Global.videoPlayer.sendEvent("play")
 JS
 sleep 20;
-end
-
-if y == 'betastg'
-browser.execute_script <<-JS
-amp.play();
-JS
-sleep 45;
-
-browser.execute_script <<-JS
-amp.pause();
-JS
-sleep 5;
-
-browser.execute_script <<-JS
-amp.play();
-JS
-sleep 20;
-end
-
-puts "Test is now complete for Video".green
-f.puts "Test is now complete for Video"
-puts "End Time now #{add_obj.dt}".cyan
-f.puts "End Time now #{add_obj.dt}"
-f.puts ' '
 
 browser.close
-f.close
 
 rescue Exception => e
   puts "Error nessage :"
   puts e
-  puts 'problem with Video page and Video play' 
+  puts 'problem with print icon on the article page' 
  browser.close
- f.close
 end
 
