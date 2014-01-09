@@ -1,4 +1,0 @@
-The icon grid does NOT exists
-The icon grid exists 
-Navigate to own tv page
-Button moved from daily to weekly
