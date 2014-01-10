@@ -2,7 +2,7 @@ require 'rubygems'
 require 'time'
 require 'mail'
 
-fileName= File.open("./output1.txt")
+fileName= File.open("/Users/nkrishna/qa/FireFox/Regression/Omniture/output1.txt")
   
   begin
     File.exists?(fileName)
@@ -12,8 +12,8 @@ fileName= File.open("./output1.txt")
 options = { :address => "smtp.gmail.com",
 	    :port => 587,
             :domain => 'gmail.com',       
-            :user_name => 'qaoprahown@gmail.com',
-            :password => 'oprahrules99',
+            :user_name => 'naveenowntv@gmail.com',
+            :password => 'oprah009',
 	    :authentication => 'plain',
 	    :enable_starttls_auto => true }
 
@@ -31,6 +31,6 @@ Mail.deliver do
         subject 'Automation Regression Complete for Omniture tracking. Scriptname : run-omniture.rb '
          body 'Omniture tracking scripts.
 	 Please check the output file which has extracted all the Omniture variables and the pages clicked abd total clicks'
-        add_file './output1.txt'
+        add_file '/Users/nkrishna/qa/FireFox/Regression/Omniture/output1.txt'
 end
 

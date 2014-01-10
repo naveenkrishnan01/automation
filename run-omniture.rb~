@@ -27,7 +27,7 @@ else
  env1 = 'PRODUCTION'
 end 
 
-require '../FileVerify.rb';
+require '/Users/nkrishna/qa/FireFox/Regression/FileVerify.rb';
 
 f = File.open('output1.txt', 'a')
 puts "** THIS REGRESSION IS DONE USING #{browserName} BROWSER and #{env1} Environment **".green
