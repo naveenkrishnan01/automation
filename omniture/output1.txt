@@ -1,0 +1,11 @@
+** THIS REGRESSION IS DONE USING FireFox BROWSER and PRODUCTION Environment **
+ 
+Starting Time now Dec/03/2013 10:13am PST
+Starting Time now Dec/03/2013 10:15am PST
+Error nessage :
+problem with form submission for Omniture tracking for Brene Brown Course page for paid memeber
+ 
+Starting Time now Dec/03/2013 10:16am PST
+Error nessage :
+problem with form submission for Omniture tracking for Brene Brown regisration page for new members
+ 

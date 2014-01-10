@@ -7,9 +7,9 @@ require 'selenium-webdriver'
 require 'colorize'
 require 'date'
 require 'json'
-require '../browse_env_check.rb'
+require './browse_env_check.rb'
 require './clicks.rb'
-require '../date_time.rb'
+require './date_time.rb'
 
 class OmagSkip < Url_check
   include BrowseEnvCheckable
@@ -22,7 +22,7 @@ y = m.EnvCheck(@env)
 click_count = 0
 date_obj = OmagSkip.new
 
-configuration = JSON.parse(File.read('../conf.json'))
+configuration = JSON.parse(File.read('./conf.json'))
 url = configuration ["url"]
 
 file = m.ReadFile('output1.txt')
@@ -78,7 +78,6 @@ browser.link(:href, 'http://betastg.oprah.com/omagazine.html').click;
 click_count += 1
 f.puts "The http://betastg.oprah.com/omagazine.html was clicked"
 sleep 5;
-#browser.link(:href, 'http://betamyown.oprah.com/register.html').fire_event('onclick');	
 browser.goto  "http://betamyown.oprah.com/register.html"
 sleep 5;
 @t = m.url_check_pt("http://betamyown.oprah.com/omagazine.html")

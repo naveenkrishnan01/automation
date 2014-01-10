@@ -7,9 +7,9 @@ require 'selenium-webdriver'
 require 'colorize'
 require 'date'
 require 'json'
-require '../browse_env_check.rb'
+require './browse_env_check.rb'
 require './clicks.rb'
-require '../date_time.rb'
+require './date_time.rb'
 
 class OmagSkip < Url_check
   include BrowseEnvCheckable
@@ -22,7 +22,7 @@ x = m.browsecheck(@browser)
 y = m.EnvCheck(@env)
 click_count = 0
 
-configuration = JSON.parse(File.read('../conf.json'))
+configuration = JSON.parse(File.read('./conf.json'))
 brene = configuration ["Brene"]
 
 file = m.ReadFile('output1.txt')
@@ -39,7 +39,7 @@ f.puts "Starting Time now #{obj_date.dt}"
 browser = m.browseEnv(@name)
 
 if y == 'betastg'
-browser.goto 'http://ownaccess:oprah@blan blah'
+browser.goto 'http://ownaccess:oprah@blah blah'
 browser.goto 'http://ownaccess:oprah@blah blah'
 browser.goto 'http://ownaccess:oprah@blah blah'
 browser.goto 'http://ownaccess:oprah@blah blah'
@@ -50,7 +50,7 @@ browser.goto 'http://betastg.oprah.com/own-brene-brown-course/lifeclass-presents
 end
  elsif y == 'livestg'
  browser.cookies.clear
- browser.goto 'http://myown.oprah.com/blah blah'
+ browser.goto 'http://myown.oprah.com/blah'
  browser.text_field(:id => 'check_staging').set('1')
  browser.button(:class => 'btn btn-primary').click;
 sleep 3;
